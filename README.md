@@ -2,6 +2,7 @@
 
 Official implementation of CLEval | [paper](https://arxiv.org/abs/2006.06244)
 
+
 ## Overview
 We propose a Character-Level Evaluation metric (CLEval). To perform fine-grained assessment of the results, *instance matching* process handles granularity difference and *scoring process* conducts character-level evaluation. Please refer to the paper for more details. This code is based on [ICDAR15 official evaluation code](http://rrc.cvc.uab.es/).
 
